@@ -1,0 +1,29 @@
+
+#select{
+    display: block;
+    margin-top: 23px;
+    margin-left: 173px;
+}
+
+
+.div1{
+    margin-top: 250px;
+    margin-left: 450px;
+}
+
+#header{
+    font-size: 56px;
+    /* float: center;   INSIDE CONTAINER!!!! */
+    position: relative;
+    left: 523px;
+    top: 124px;
+}
+
+#a:visited{
+   color: chartreuse;
+   /* position: relative;
+   top: 123px;
+   float: right; positions */   
+}
+
+/*CSS will not be applied to JS values*/
